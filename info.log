@@ -1,0 +1,25 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:9000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:9000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:9000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:9000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Главная страница загружена
+INFO:root:Страница для загрузки поста загружена
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:9000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2022 16:03:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2022 16:03:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2022 16:03:55] "GET /get/post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2022 16:03:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:root:Тип файлов heic не поддерживается
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2022 16:04:05] "POST /upload HTTP/1.1" 200 -
+ERROR:root:Тип файлов heic не поддерживается
+INFO:werkzeug:127.0.0.1 - - [16/Aug/2022 16:07:22] "POST /upload HTTP/1.1" 200 -
